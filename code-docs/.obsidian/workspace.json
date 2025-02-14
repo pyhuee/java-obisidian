@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "06601d00237fda9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "83baa81b93a3c650",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a7bc3adf4fa3e9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentals/Methods/Run Method.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Run Method"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67d965cb257b47ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ed415a1032b35e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e94a186db61ab38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "58875116ed24b125",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "52da74a7d794015e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "adcb84102e8d9168",
+    "type": "split",
+    "children": [
+      {
+        "id": "a11c81937f508b17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f8a15fd0531057e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fundamentals/Methods/Run Method.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Run Method"
+            }
+          },
+          {
+            "id": "abbf688f18f3fea0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fundamentals/Methods/Run Method.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Run Method"
+            }
+          },
+          {
+            "id": "5dd4f244e2d9a87e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c0f554c2eecf083d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fundamentals/Methods/Run Method.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Run Method"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4a7bc3adf4fa3e9f",
+  "lastOpenFiles": [
+    "Media/PSVM demo.mov",
+    "Fundamentals/Methods/Run Method.md",
+    "Media",
+    "Untitled.md",
+    "Basics/Printing.md",
+    "Fundamentals/Methods",
+    "Fundamentals/Classes",
+    "Fundamentals/Classes.md",
+    "Fundamentals",
+    "IDE Setup.md",
+    "Basics",
+    "Welcome.md"
+  ]
+}
