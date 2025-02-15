@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/Methods/Run Method.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Run Method"
+              "title": "Welcome"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals/Methods/Run Method.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Run Method"
+              "title": "Backlinks for Welcome"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentals/Methods/Run Method.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Run Method"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/Methods/Run Method.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Run Method"
+              "title": "Outline of Welcome"
             }
           }
         ]
@@ -170,15 +170,16 @@
   },
   "active": "8e94a186db61ab38",
   "lastOpenFiles": [
+    "Concepts/Methods/Run Method.md",
+    "Media/InteliJ IDEA sout shortcut.mov",
     "Media/IntelliJ IDEA psvm shortcut.mov",
-    "Fundamentals/Methods/Run Method.md",
+    "Basics/Printing.md",
     "Media",
     "Untitled.md",
-    "Basics/Printing.md",
-    "Fundamentals/Methods",
-    "Fundamentals/Classes",
+    "Concepts/Methods",
+    "Concepts/Classes",
     "Fundamentals/Classes.md",
-    "Fundamentals",
+    "Concepts",
     "IDE Setup.md",
     "Basics",
     "Welcome.md"
