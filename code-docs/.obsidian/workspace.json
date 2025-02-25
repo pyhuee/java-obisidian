@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Methods/Run Method.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Run Method"
+              "title": "Welcome"
             }
           }
         ]
@@ -170,9 +170,9 @@
   },
   "active": "4a7bc3adf4fa3e9f",
   "lastOpenFiles": [
+    "Concepts/Methods/Run Method.md",
     "Media/InteliJ IDEA sout shortcut.mov",
     "Media/IntelliJ IDEA psvm shortcut.mov",
-    "Concepts/Methods/Run Method.md",
     "IDE Setup.md",
     "Welcome.md",
     "Basics/Printing.md",
